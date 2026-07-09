@@ -19,3 +19,6 @@
 - colocar site online (GitHub Pages)
 - melhorar design nível profissional
 - começar com o node.js
+- quando o cursor passar na caixa de texto de "meus trabalhos" ela vai vai brilhar 
+  - ref:tipo em:https://isouwebsite.pro/
+- ref: https://tobiasahlin.com/ - colocar animação ao dar f5 e entrar na pagina

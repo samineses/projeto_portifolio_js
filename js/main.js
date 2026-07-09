@@ -1,0 +1,10 @@
+window.addEventListener("load", () => {
+    setTimeout(() => {
+        const preloader = document.getElementById("preloader");
+        preloader.classList.add("fade-out");
+
+        setTimeout(() => {
+            preloader.style.display = "none";
+        }, 500);
+    }, 1200);
+});
