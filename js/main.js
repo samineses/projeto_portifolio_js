@@ -1,10 +1,13 @@
 window.addEventListener("load", () => {
-    setTimeout(() => {
-        const preloader = document.getElementById("preloader");
-        preloader.classList.add("fade-out");
+    // seleciona o elemento
+    const preloader = document.getElementById("preloader");
 
-        setTimeout(() => {
-            preloader.style.display = "none";
-        }, 500);
-    }, 1200);
+    // adiciona efeito de fade-out
+    preloader.classList.add("fade-out");
+
+    // remove o elemento após a animação
+    setTimeout(() => {
+        preloader.style.display = "none";
+    }, 500);
 });
+``
