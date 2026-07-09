@@ -4,4 +4,11 @@ Identificamos e corrigimos o erro de conexão do CSS com o HTML (<link rel="styl
 Configuramos a execução no VS Code usando F5 com launch.json.
 
 # Remenber git commands
-- 
+- git init
+- git config user..
+- git remote add origin <repo-url>
+- git checkout -b main
+- git add
+- git commit
+- git commit --amend
+- git push origin main
