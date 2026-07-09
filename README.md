@@ -4,6 +4,7 @@
 - Configuramos a execução no VS Code usando F5 com launch.json.
 - Implementei fonte customizada (Bank Gothic via arquivo local)
 - grid responsivo com cards quadrados ocupando toda a tela
+- animação do titulo do portifolio | ref: https://tobiasahlin.com/
 
 # Remember git commands
 - git init
@@ -21,4 +22,3 @@
 - começar com o node.js
 - quando o cursor passar na caixa de texto de "meus trabalhos" ela vai vai brilhar 
   - ref:tipo em:https://isouwebsite.pro/
-- ref: https://tobiasahlin.com/ - colocar animação ao dar f5 e entrar na pagina
