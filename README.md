@@ -13,5 +13,7 @@ Configuramos a execução no VS Code usando F5 com launch.json.
 - git commit --amend
 - git push origin main
 
-
-# testes teste
+### --next steps--
+- colocar site online (GitHub Pages)
+- melhorar design nível profissional
+- começar com o node.js
