@@ -12,3 +12,6 @@ Configuramos a execução no VS Code usando F5 com launch.json.
 - git commit -m ""
 - git commit --amend
 - git push origin main
+
+
+# testes teste
