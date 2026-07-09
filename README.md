@@ -5,6 +5,7 @@
 - Implementei fonte customizada (Bank Gothic via arquivo local)
 - grid responsivo com cards quadrados ocupando toda a tela
 - animação do titulo do portifolio | ref: https://tobiasahlin.com/
+- imagem que expande na caixa de texto de "meus trabalhos"
 
 # Remember git commands
 - git init
